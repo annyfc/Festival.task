@@ -1,0 +1,38 @@
+header {
+    position: sticky;
+    top: 0;
+}
+
+ul {
+    list-style: none;
+    color: orange;
+    text-align: right;
+
+}
+
+li {
+    display: inline;
+    background-color: orange;
+
+}
+
+button {
+    list-style: none;
+    color: rgb(238, 235, 231);
+    text-align: center;
+    background-color: orange;
+    float: left;
+    font-size: 30px;
+    border-radius: 50px;
+    border-color: red;
+    border-style: groove;
+    margin: 3px;
+    padding: 6px;
+}
+
+button:hover {
+    background-color: red;
+    font-size: large;
+    transition: 1s;
+    font-size: 40px;
+}

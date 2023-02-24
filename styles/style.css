@@ -1,0 +1,79 @@
+body {
+    background: radial-gradient(circle, rgba(195, 29, 17, 1) 0%, rgba(191, 49, 12, 1) 20%, rgba(170, 77, 50, 1) 48%, rgba(199, 111, 44, 1) 85%, rgba(255, 189, 0, 1) 100%);
+    background-image: url(festival\ rave.jpg);
+    background-size: cover;
+    background-repeat: repeat;
+    margin: auto;
+
+
+}
+
+h1 {
+    color: orange;
+    margin-top: 30px;
+    padding: 40px;
+    text-align: none;
+    font-size: 70px;
+    clear: left;
+    text-align: center;
+
+}
+
+.row {}
+
+.column {
+    width: 25%;
+    float: left;
+    border-radius: 50px;
+    border-style: groove;
+    border-color: darkorange;
+    margin: 2px;
+    padding: 1%;
+    color: darkorange;
+    text-align: center;
+    background-color: black;
+}
+
+.column1 {
+    width: 25%;
+    float: left;
+    border-radius: ;
+    border-style: ;
+    border-color: rgb(255, 0, 0);
+    margin: 30px;
+    padding: 1%;
+    color: rgba(255, 0, 0, 0.74);
+    text-align: left;
+    background-color: auto;
+    text-transform: ;
+}
+
+#img {
+    width: 25%;
+    height: 50%;
+}
+
+#img1 {
+    width: 25%;
+    height: 50%;
+    clear: left;
+}
+
+#left {
+    float: left;
+}
+
+footer {
+    color: orange;
+    margin-bottom: 30px;
+    padding: 40px;
+    text-align: center;
+    font-size: 20px;
+    clear: left;
+}
+
+#img2 {
+    width: 200px;
+    height: 100px;
+    clear: left;
+}
